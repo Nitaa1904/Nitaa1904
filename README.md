@@ -1,6 +1,6 @@
 # Hello, I'm Nita Fitrotul Mar'ah! 👩‍💻
 
-Welcome to my GitHub profile! 🎉 I’m a passionate Software Engineering student at **Institut Teknologi Telkom Purwokerto**. I’m deeply interested in web development, data analysis, and full-stack programming. I love turning ideas into real, functional applications and contributing to meaningful projects.
+Welcome to my GitHub profile! 🎉 I’m a passionate Software Engineering student at **Telkom University Purwokerto**. I’m deeply interested in web development, data analysis, and full-stack programming. I love turning ideas into real, functional applications and contributing to meaningful projects.
 
 ---
 
