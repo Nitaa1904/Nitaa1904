@@ -4,18 +4,6 @@ Welcome to my GitHub profile! 🎉 I’m a passionate Software Engineering stude
 
 ---
 
-## 🌱 **About Me**
-I’m an enthusiastic learner and aspiring developer. Here’s a little more about my journey:
-
-- 🎓 **Software Engineering** student at IT Telkom Purwokerto  
-- 💻 **Specialties**: Front-End, Back-End, Full-Stack Development, and Data Analytics  
-- 🌟 Currently exploring **Node.js**, **Flutter**, and **Sequelize**  
-- 🔧 Tools I use: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express.js**, **Sequelize**, **Flutter**  
-- 🎮 When I'm not coding, I enjoy playing **strategy games** and exploring new **IT innovations**  
-- 🌍 Always looking for new opportunities to collaborate and learn from other developers
-
----
-
 ## 🛠️ **Technologies & Tools**
 Here are the technologies I’ve worked with:
 
