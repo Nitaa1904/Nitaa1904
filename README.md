@@ -16,46 +16,29 @@ I’m an enthusiastic learner and aspiring developer. Here’s a little more abo
 
 ---
 
-## 🛠️ **My Skills**
-Here’s a snapshot of the technologies and tools I'm currently working with:
+## 🛠️ **Technologies & Tools**
+Here are the technologies I’ve worked with:
 
-- **Languages**:  
-    - JavaScript (ES6+)
-    - HTML5 & CSS3
-    - PHP
-    - SQL (MySQL, PostgreSQL)
-    - Dart (Flutter)
-  
-- **Web Technologies**:  
-    - React, Next.js
-    - Node.js, Express.js
-    - REST APIs
-    - Bootstrap, Tailwind CSS
-  
-- **Database**:  
-    - MySQL, PostgreSQL
-    - MongoDB (NoSQL)
-    - Sequelize ORM
-  
-- **Tools & Platforms**:  
-    - Git, GitHub, GitLab  
-    - Docker, Heroku, Netlify  
-    - Firebase, Firestore  
-    - VS Code, Postman
+- **Languages**: JavaScript, HTML, CSS, PHP, Dart  
+- **Frameworks & Libraries**: React, Node.js, Express.js, Sequelize, Flutter  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Tools**: Git, GitHub, Docker, VS Code, Postman, Firebase
 
 ---
 
-## 📈 **My Projects**
-Here are some of my featured projects that I’m working on or have completed:
+## 🚀 **Projects**
+### **Personal Portfolio**  
+A simple and responsive portfolio website built with **HTML**, **CSS**, and **JavaScript**.  
+[View Project](https://github.com/Nitaa1904/personal-website)
 
-### 🚀 **[Personal Website](https://github.com/Nitaa1904/personal-website)**
-A simple, responsive, and interactive personal portfolio website where you can learn more about me and see the projects I’ve worked on. Built with **HTML**, **CSS**, and **JavaScript**.
+### **Resto Pringgading Website**  
+A restaurant profile website showcasing the menu, location, and services.  
+[View Project](https://github.com/Nitaa1904/resto-pringgading)
 
-### 🛒 **[Resto Pringgading Website](https://github.com/Nitaa1904/resto-pringgading)**
-A restaurant profile website showcasing the menu, location, and other important details, developed as part of a group project in university. Built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
+### **Flutter Travel App**  
+A mobile app for discovering travel destinations, built using **Flutter** and **Dart**.  
+[View Project](https://github.com/Nitaa1904/flutter-travel-app)
 
-### 📱 **[Flutter Travel App](https://github.com/Nitaa1904/flutter-travel-app)**
-A simple Flutter-based mobile app that offers travel recommendations, showing descriptions, images, and location-based details. Built using **Flutter** and **Dart**.
 
 ---
 
@@ -76,8 +59,8 @@ I would love to connect with like-minded individuals to discuss projects, tech, 
 - 📱 **Phone**: 088239561942  
 - 📍 **Location**: Banyumas, Indonesia  
 - 🌐 **Portfolio**: [Coming Soon]  
-- 🐦 **Twitter**: [@NitaaFitrotul](https://twitter.com/NitaaFitrotul)  
-- 💼 **LinkedIn**: [Nita Fitrotul Mar'ah](https://www.linkedin.com/in/nita-fitrotul-mar'ah/)
+- 📸 **Instagram**: [@NitaaFitrotul](https://www.instagram.com/nfm_194/) 
+- 💼 **LinkedIn**: [Nita Fitrotul Mar'ah](https://www.linkedin.com/in/nitafitrotul/)
 
 ---
 
