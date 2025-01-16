@@ -1,53 +1,44 @@
 # Hello, I'm Nita Fitrotul Mar'ah! 👩‍💻
 
+<div align="center">
+  <img src="https://readme-3d.vercel.app/gradient?color1=blue&color2=purple&text=Nita+Fitrotul+Mar'ah&fontSize=40&fontFamily=Poppins" alt="Nita Fitrotul Mar'ah"/>
+</div>
+
 Welcome to my GitHub profile! 🎉 I’m a Software Engineering student at **Telkom University Purwokerto**, passionate about web development, data analysis, and full-stack programming. Here, you can explore the projects and contributions I’ve made during my journey in tech.
 
 ---
 
 ## 🛠️ **Tech Stack**
-- **Languages**: JavaScript, PHP, HTML, CSS, Dart
-- **Frameworks & Libraries**: React, Node.js, Express.js, Flutter, Sequelize
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, GitHub, Docker, Postman, Firebase, VS Code
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,php,html,css,dart,react,nodejs,express,flutter,sequelize,mysql,postgres,mongodb,docker,git,github,firebase,postman,vscode" alt="Tech Stack"/>
+</div>
 
 ---
 
 ## 🚀 **Featured Projects**
-
-### **Personal Portfolio**
-A responsive portfolio website showcasing my skills and projects.
-- **Technologies**: HTML, CSS, JavaScript
-- [View Repository](https://github.com/Nitaa1904/personal-website)
-
-### **Resto Pringgading Website**
-A profile website for a restaurant, featuring menus, services, and location.
-- **Technologies**: HTML, CSS, JavaScript
-- [View Repository](https://github.com/Nitaa1904/resto-pringgading)
-
-### **Flutter Travel App**
-A mobile app for discovering travel destinations with beautiful UI.
-- **Technologies**: Flutter, Dart
-- [View Repository](https://github.com/Nitaa1904/flutter-travel-app)
+<div align="center">
+  <img src="https://readme-3d.vercel.app/project?title=Personal+Portfolio&subtitle=Responsive+website+showcasing+skills&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/personal-website" alt="Personal Portfolio"/>
+  <img src="https://readme-3d.vercel.app/project?title=Resto+Pringgading+Website&subtitle=Restaurant+profile+website&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/resto-pringgading" alt="Resto Pringgading"/>
+  <img src="https://readme-3d.vercel.app/project?title=Flutter+Travel+App&subtitle=Mobile+app+for+travel+destinations&tech=Flutter,Dart&repo=https://github.com/Nitaa1904/flutter-travel-app" alt="Flutter Travel App"/>
+</div>
 
 ---
 
 ## 📊 **GitHub Stats**
-Here’s a quick overview of my contributions:
+<div align="center">
+  ![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical)
 
-![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical)
-
-### 🌍 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical)
+</div>
 
 ---
 
 ## 🌐 **Get in Touch**
-I’m always open to discussing projects, ideas, and collaborations. Let’s connect!
-
-- 📧 **Email**: [nitafitrotul1904@gmail.com](mailto:nitafitrotul1904@gmail.com)  
-- 📱 **WhatsApp**: 088239561942  
-- 📸 **Instagram**: [@NitaaFitrotul](https://www.instagram.com/nfm_194/)  
-- 💼 **LinkedIn**: [Nita Fitrotul Mar'ah](https://www.linkedin.com/in/nitafitrotul/)
+<div align="center">
+  <a href="mailto:nitafitrotul1904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nfm_194/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nitafitrotul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 ---
 
