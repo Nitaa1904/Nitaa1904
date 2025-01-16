@@ -17,18 +17,27 @@ Welcome to my GitHub profile! 🎉 I’m a Software Engineering student at **Tel
 
 ## 🚀 **Featured Projects**
 <div align="center">
-  <img src="https://readme-3d.vercel.app/project?title=Personal+Portfolio&subtitle=Responsive+website+showcasing+skills&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/personal-website" alt="Personal Portfolio"/>
-  <img src="https://readme-3d.vercel.app/project?title=Resto+Pringgading+Website&subtitle=Restaurant+profile+website&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/resto-pringgading" alt="Resto Pringgading"/>
-  <img src="https://readme-3d.vercel.app/project?title=Flutter+Travel+App&subtitle=Mobile+app+for+travel+destinations&tech=Flutter,Dart&repo=https://github.com/Nitaa1904/flutter-travel-app" alt="Flutter Travel App"/>
+  <div>
+    <img src="https://readme-3d.vercel.app/project?title=Personal+Portfolio&subtitle=Responsive+website+showcasing+skills&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/personal-website" alt="Personal Portfolio"/>
+  </div>
+  <div>
+    <img src="https://readme-3d.vercel.app/project?title=Resto+Pringgading+Website&subtitle=Restaurant+profile+website&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/resto-pringgading" alt="Resto Pringgading"/>
+  </div>
+  <div>
+    <img src="https://readme-3d.vercel.app/project?title=Flutter+Travel+App&subtitle=Mobile+app+for+travel+destinations&tech=Flutter,Dart&repo=https://github.com/Nitaa1904/flutter-travel-app" alt="Flutter Travel App"/>
+  </div>
 </div>
 
 ---
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  ![Nita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical)
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
 </div>
 
 ---
