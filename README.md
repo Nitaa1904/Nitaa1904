@@ -1,9 +1,5 @@
 # Hello, I'm Nita Fitrotul Mar'ah! 👩‍💻
 
-<div align="center">
-  <img src="https://readme-3d.vercel.app/gradient?color1=blue&color2=purple&text=Nita+Fitrotul+Mar'ah&fontSize=40&fontFamily=Poppins" alt="Nita Fitrotul Mar'ah"/>
-</div>
-
 Welcome to my GitHub profile! 🎉 I’m a Software Engineering student at **Telkom University Purwokerto**, passionate about web development, data analysis, and full-stack programming. Here, you can explore the projects and contributions I’ve made during my journey in tech.
 
 ---
