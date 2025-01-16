@@ -16,28 +16,36 @@ Welcome to my GitHub profile! 🎉 I’m a Software Engineering student at **Tel
 ---
 
 ## 🚀 **Featured Projects**
-<div align="center">
-  <div>
-    <img src="https://readme-3d.vercel.app/project?title=Personal+Portfolio&subtitle=Responsive+website+showcasing+skills&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/personal-website" alt="Personal Portfolio"/>
-  </div>
-  <div>
-    <img src="https://readme-3d.vercel.app/project?title=Resto+Pringgading+Website&subtitle=Restaurant+profile+website&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/resto-pringgading" alt="Resto Pringgading"/>
-  </div>
-  <div>
-    <img src="https://readme-3d.vercel.app/project?title=Flutter+Travel+App&subtitle=Mobile+app+for+travel+destinations&tech=Flutter,Dart&repo=https://github.com/Nitaa1904/flutter-travel-app" alt="Flutter Travel App"/>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://readme-3d.vercel.app/project?title=Personal+Portfolio&subtitle=Responsive+website+showcasing+skills&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/personal-website" alt="Personal Portfolio"/>
+    </td>
+    <td align="center">
+      <img src="https://readme-3d.vercel.app/project?title=Resto+Pringgading+Website&subtitle=Restaurant+profile+website&tech=HTML,CSS,JavaScript&repo=https://github.com/Nitaa1904/resto-pringgading" alt="Resto Pringgading"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://readme-3d.vercel.app/project?title=Flutter+Travel+App&subtitle=Mobile+app+for+travel+destinations&tech=Flutter,Dart&repo=https://github.com/Nitaa1904/flutter-travel-app" alt="Flutter Travel App"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical" alt="Top Languages"/>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
