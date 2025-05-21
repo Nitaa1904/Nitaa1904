@@ -14,16 +14,13 @@
   </a>
 </p>
 
----
-
-<!-- Introduction -->
 <h3 align="center">📍 Banyumas, Indonesia</h3>
 
 <p align="center">
   <em>"Welcome to my GitHub profile! I'm currently a Software Engineering student at Telkom University Purwokerto. I enjoy exploring web development, building interactive websites, and working on full-stack projects."</em>
 </p>
 
----
+<p align="center">• • •</p>
 
 <!-- Connect With Me -->
 <h2 align="center">🤝 Connect with Me</h2>
@@ -35,29 +32,29 @@
   <a href="https://github.com/Nitaa1904">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/nitafitrotul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://https://www.instagram.com/nfm_194/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">• • •</p>
 
 <!-- About Me -->
 <h2 align="center">💫 About Me</h2>
 
 <ul align="center">
- 🎓 Software Engineering student at Telkom University Purwokerto
-  <br>🌱 Currently focusing on Full-stack development and Flutter
-   <br>💡 Passionate about creating user-friendly web applications
-   <br>🎯 Goal: To become a proficient Full Stack Developer
-   <br>📱 Contact: +62 88239561942
-   <br>✨ Fun fact: I love coding while listening to music 🎵
+ 🎓 Software Engineering student at Telkom University Purwokerto  
+ 🌱 Currently focusing on Full-stack development and Flutter  
+ 💡 Passionate about creating user-friendly web applications  
+ 🎯 Goal: To become a proficient Full Stack Developer  
+ 📱 Contact: +62 88239561942  
+ ✨ Fun fact: I love coding while listening to music 🎵  
 </ul>
 
----
+<p align="center">• • •</p>
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
@@ -66,42 +63,46 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,flutter,dart,git,vscode,figma" />
 </p>
 
----
+<p align="center">• • •</p>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitaa1904&theme=radical&row=1&column=6&margin-w=15" alt="Trophy" />
-</p>
+<details align="center">
+  <summary><strong>Click to expand GitHub Stats</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nitaa1904&theme=radical&row=1&column=6&margin-w=15" alt="Trophy" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitaa1904&theme=radical" height="165" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitaa1904&show_icons=true&theme=radical" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitaa1904&theme=radical" height="165" />
+  </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical" />
-</p>
+  <p align="center">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitaa1904&layout=compact&theme=radical" />
+  </p>
 
-<p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitaa1904&theme=radical" />
-</p>
+  <p align="center">
+    <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitaa1904&theme=radical" />
+  </p>
+</details>
 
----
+<p align="center">• • •</p>
 
 <!-- Focus -->
 <h2 align="center">🎯 Current Focus</h2>
 
 <ul align="center">
-   <br>📱 Developing mobile applications using Flutter
-   <br>🌐 Building full-stack web applications
-   <br>📊 Learning data analytics
-   <br>🤝 Contributing to open-source projects
-   <br>📚 Improving UI/UX design skills
+ 📱 Developing mobile applications using Flutter  
+ 🌐 Building full-stack web applications  
+ 📊 Learning data analytics  
+ 🤝 Contributing to open-source projects  
+ 📚 Improving UI/UX design skills  
 </ul>
 
----
+<p align="center">• • •</p>
 
 <!-- Let's Connect -->
 <h2 align="center">📫 Let's Connect!</h2>
@@ -112,7 +113,7 @@
   📱 Phone: +62 88239561942
 </p>
 
----
+<p align="center">• • •</p>
 
 <!-- Footer -->
 <p align="center">
